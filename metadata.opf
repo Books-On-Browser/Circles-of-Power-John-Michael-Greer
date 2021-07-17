@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">68901b1b-97b6-4101-97e7-6b974a676577</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">68901b1b-97b6-4101-97e7-6b974a676577</dc:identifier>
+        <dc:title>Circles of Power</dc:title>
+        <dc:creator opf:file-as="Greer, John Michael" opf:role="aut">John Michael Greer</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (5.11.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>0101-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;The ceremonial magic of the Hermetic Order of the Golden Dawn is among the most widely practiced of all magical systems today. Yet very few books on the Golden Dawn tradition pass beyond the basics into the more demanding and powerful magical practices the system has to offer. &lt;i&gt;Circles of Power&lt;/i&gt; is the exception. It's a comprehensive practical manual of Golden Dawn magic that proceeds step by step from basic principles and fundamental rituals to the heights and depths of magical attainment. &lt;i&gt;Circles of Power&lt;/i&gt; provides detailed instructions for such rarely discussed magical techniques as the creation of telesmatic images, the construction and use of flashing tablets, the Golden Dawn method of etheric shapeshifting, and the use of the Formula of the Equinox&amp;#8212;one of the two fundamental ritual formulas of the Golden Dawn tradition&amp;#8212;as a basis for rituals of evocation, consecration, spiritual development, and more. This new edition has been thoroughly revised by...</dc:description>
+        <dc:publisher>AEON Books</dc:publisher>
+        <dc:rights>Copyright © 2017 by John Michael Greer</dc:rights>
+        <dc:language>pt</dc:language>
+        <dc:subject>Magia</dc:subject>
+        <dc:subject>Meditação</dc:subject>
+        <meta name="calibre:author_link_map" content="{}"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Capas" href="cover.jpg"/>
+    </guide>
+</package>
